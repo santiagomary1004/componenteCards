@@ -17,7 +17,6 @@ import Card from './Card.vue';
      <!-- INICIO DEL SEGUNDO ROW -->
       <Card/>
       <!-- CIERRE DEL SEGUNDO ROW -->
-       <Card/>
   </div>
   <!-- CIERRE DEL CONTAINER -->
 
